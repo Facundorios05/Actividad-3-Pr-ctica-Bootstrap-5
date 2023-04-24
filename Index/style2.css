@@ -18,7 +18,6 @@ h1 {
     background-color: rgb(255, 255, 255);
     height: 50px;
 }
-
 .promo {
     color:rgb(0, 0, 0) ;
     font-size: larger;    display: flex;
@@ -32,16 +31,12 @@ h1 {
 
 
 }
-
 .subtitulo {
     display: flex;
     justify-content: center;
         font-family: 'Courier New', Courier, monospace;
     color:azure ;
 }
-
-
-
 div{
     display: flex;
     justify-content: center;
@@ -50,7 +45,6 @@ div{
     color:azure ;
     margin-top: 100px;
 }
-
 #boton2 {
     justify-content: center;
     display: flex;
@@ -59,9 +53,12 @@ div{
     align-items: center;
     
 } 
-
 p {
+    color: aliceblue;
     display: flex;
     justify-content: center;
     align-items: center;
+}
+.nav-link {
+    color: rgb(145, 202, 202);
 }
