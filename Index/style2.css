@@ -1,0 +1,67 @@
+ 
+body{
+    background-color: rgb(145, 202, 202);
+    justify-content: space-between;    
+
+}
+h1 {
+    display: flex;
+    justify-content: center;
+    font-family: 'Courier New', Courier, monospace;
+    align-items: center;
+    color: azure;
+}
+.nav {
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    background-color: rgb(255, 255, 255);
+    height: 50px;
+}
+
+.promo {
+    color:rgb(0, 0, 0) ;
+    font-size: larger;    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+   padding: 80px;
+    float: left;
+    height: 50px;
+
+
+}
+
+.subtitulo {
+    display: flex;
+    justify-content: center;
+        font-family: 'Courier New', Courier, monospace;
+    color:azure ;
+}
+
+
+
+div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Courier New', Courier, monospace;
+    color:azure ;
+    margin-top: 100px;
+}
+
+#boton2 {
+    justify-content: center;
+    display: flex;
+    background-color:rgb(34, 83, 83);
+    border:rgb(34, 83, 83);
+    align-items: center;
+    
+} 
+
+p {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
